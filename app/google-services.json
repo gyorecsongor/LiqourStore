@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "554744629854",
+    "project_id": "liqourstore-e22f0",
+    "storage_bucket": "liqourstore-e22f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554744629854:android:e01f07c255cac5e68f82cf",
+        "android_client_info": {
+          "package_name": "com.example.liqourstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554744629854-vuv6vmpar84dtlo3pbb373qnpq6f2fnd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.liqourstore",
+            "certificate_hash": "6c651f5462cf0f2ca3c3cc3806acec06d5cbfe8b"
+          }
+        },
+        {
+          "client_id": "554744629854-qcd62f6gtoag51fbjj6qdr0o4212n9qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyD92Tjx_YDc7XbQkTsPSFg7HwJh_zrhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554744629854-qcd62f6gtoag51fbjj6qdr0o4212n9qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
